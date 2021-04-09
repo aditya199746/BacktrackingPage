@@ -1,0 +1,82 @@
+.back{
+    font-size: 32px;
+   
+    
+}
+.tree{
+    height: -10%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.code{
+    color: brown;
+    font-size: 15px;
+    margin-left: 30px;
+    font-weight: bolder;
+}
+.sol{
+    font-size: 15px;
+    color: brown;
+}
+.table,td{
+    border: 1px solid black;
+    width: 90px;
+    height: 25px;
+    
+}
+.tab{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.enter{
+    font-size: 20px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.col{
+    background-color: yellow;
+
+}
+.colcolr{
+    background-color: gray;
+}
+.newtable{
+    margin: auto;
+    table-layout: fixed;
+    background-color: lightgray;
+    border-collapse: collapse;
+    border: unset;
+    width: 44px;
+  
+    text-align: center;
+
+}
+
+.qw{
+    text-align: start;
+    
+    border: none;
+    background-color: white;
+}
+.newt{
+
+    border-collapse: separate;
+    border-spacing: 0 15px;
+   
+    
+    margin: auto;
+
+}
+
+.output{
+    font-weight: bold;
+
+    font-size: 20px;
+}
+.black{
+    color: blue;
+}
